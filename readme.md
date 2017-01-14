@@ -44,3 +44,10 @@ For our "haskellexample", cd into the the root directory and type
 `runhaskell nobugs.hs`
 You will need to install Glasgow Haskell Compiler
 (www.haskell.org/platform)
+
+
+###
+
+To be added
+
+A real git tutorial
